@@ -1,17 +1,24 @@
 
 # DIO | Resumos Git e GitHub
 
-Repositório para armazenar resumos do Curso Versionamento de 
-Código com Git e GitHub da [Digital Innovation One](https://www.dio.me/).
+Este repositório contém meus resumos e aprendizados do Curso Versionamento
+de Código com Git e GitHub da [Digital Innovation One](https://www.dio.me/).
+Isso se torna uma forma de fixar o conteúdo e compartilhar com outras pessoas
+que estão aprendendo😁
+
+---
 
 ## 📚 Documentação
 
 - [Documentação Git](https://git-scm.com/doc)
 - [Documentação GitHub](https://docs.github.com/)
 
+---
 ## 🔗 Referências
 
 - [Digital Innovation One](https://www.dio.me/)
+
+---
 
 ## 🚀Conteúdos Estudados
 
@@ -21,9 +28,13 @@ Código com Git e GitHub da [Digital Innovation One](https://www.dio.me/).
 - **O que é Git**
 - **O que é GitHub**
 
+---
+
 ### Instalação, Configuração e Autenticação
 - Como **instalar** o Git na sua máquina.
 - Configuração inicial e como **autenticar** sua conta no GitHub.
+
+---
 
 ### Primeiros Passos com Git e GitHub
 - **Criando e Clonando Repositórios**: Aprendendo a criar repositórios locais e cloná-los de repositórios remotos.
@@ -32,3 +43,12 @@ Código com Git e GitHub da [Digital Innovation One](https://www.dio.me/).
 - **Enviando e Baixando Alterações com o Repositório Remoto**: Usando `git push` e `git pull` para interagir com o repositório no GitHub.
 - **Trabalhando com Branches**: Como criar, mesclar e deletar branches, além de resolver conflitos.
 - **Comandos Úteis no Dia a Dia**: Atalhos e boas práticas para otimizar o uso do Git e GitHub.
+
+---
+
+## 🔒 Aviso
+
+> Este repositório é **público apenas para fins de consulta e aprendizado**.
+> 
+> 📌 Nenhuma modificação externa será aceita.  
+> 💡 Sinta-se à vontade para clonar, estudar e utilizar como base nos seus estudos.

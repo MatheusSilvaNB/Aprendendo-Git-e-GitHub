@@ -18,7 +18,7 @@ Código com Git e GitHub da [Digital Innovation One](https://www.dio.me/).
 ### Visão Geral do Curso
 
 - **O que é Versionamento de Código**
-- **O que Git**
+- **O que é Git**
 - **O que é GitHub**
 
 ### Instalação, Configuração e Autenticação

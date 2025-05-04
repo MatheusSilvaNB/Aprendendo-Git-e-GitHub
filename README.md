@@ -49,5 +49,6 @@ que estão aprendendo😁
 ## 🔒 Aviso
 
 > Este repositório é **público apenas para fins de consulta e aprendizado**.
+> 
 > 📌 Nenhuma modificação externa será aceita.  
 > 💡 Sinta-se à vontade para clonar, estudar e utilizar como base nos seus estudos.
